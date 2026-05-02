@@ -1,57 +1,70 @@
-📊 Analysis Business Question
+## 📊 Business Questions & Insights
 
-**1. Which country has the most customers?**
-+---------+----------------+
-| Country | total_customer |
-+---------+----------------+
-| USA     |             13 |
-| GERMANY |             11 |
-| FRANCE  |             11 |
-| BRAZIL  |              9 |
-| UK      |              7 |
-+---------+----------------+
-💡 Insight: The USA has the highest number of customers, making it the primary market. 
+### 1. Which country has the most customers?
 
-**2. Which city has the highest number of customers?**
-+----------------+----------------+
-| City           | total_customer |
-+----------------+----------------+
-| London         |              6 |
-| México D.F.    |              5 |
-| S╞o Paulo      |              4 |
-| Rio de Janeiro |              3 |
-| Buenos Aires   |              3 |
-+----------------+----------------+
-💡 Insight:London has the highest number of customers (6)
+| Country | Total Customer |
+|--------|----------------|
+| USA     | 13 |
+| GERMANY | 11 |
+| FRANCE  | 11 |
+| BRAZIL  | 9 |
+| UK      | 7 |
 
-**3. Which costomers top 5 highest order?**
-+----------------------------+--------------+
-| CustomerName               | total_orders |
-+----------------------------+--------------+
-| Ernst Handel               |           10 |
-| QUICK-Stop                 |            7 |
-| Rattlesnake Canyon Grocery |            7 |
-| Wartian Herkku             |            7 |
-| Split Rail Beer & Ale      |            6 |
-+----------------------------+--------------+
-💡 Insight: This is top 5 of the highest order of customers
+💡 **Insight:**  
+The USA has the highest number of customers, making it the primary market.
 
-**4. Who is the most active customer?**
-+--------------+--------------+
-| CustomerName | total_orders |
-+--------------+--------------+
-| Ernst Handel |           10 |
-+--------------+--------------+
-💡 Insight: Ernst Handel is the most active customer with a total of 10 orders
+---
 
-**5. Which country generates the highest number of orders?**
-+---------+--------------+
-| Country | total_orders |
-+---------+--------------+
-| USA     |           29 |
-| GERMANY |           25 |
-| BRAZIL  |           19 |
-| FRANCE  |           18 |
-| AUSTRIA |           13 |
-+---------+--------------+
-💡 Insight: The USA generates the highest number of orders (29)
+### 2. Which city has the highest number of customers?
+
+| City           | Total Customer |
+|----------------|----------------|
+| London         | 6 |
+| México D.F.    | 5 |
+| São Paulo      | 4 |
+| Rio de Janeiro | 3 |
+| Buenos Aires   | 3 |
+
+💡 **Insight:**  
+London has the highest number of customers (6), indicating strong customer concentration in major cities.
+
+---
+
+### 3. Who are the top 5 customers with the highest number of orders?
+
+| Customer Name               | Total Orders |
+|----------------------------|--------------|
+| Ernst Handel               | 10 |
+| QUICK-Stop                 | 7 |
+| Rattlesnake Canyon Grocery | 7 |
+| Wartian Herkku             | 7 |
+| Split Rail Beer & Ale      | 6 |
+
+💡 **Insight:**  
+A small group of customers contributes significantly to total orders, indicating high-value customers.
+
+---
+
+### 4. Who is the most active customer?
+
+| Customer Name | Total Orders |
+|--------------|--------------|
+| Ernst Handel | 10 |
+
+💡 **Insight:**  
+Ernst Handel is the most active customer, showing strong engagement and frequent transactions.
+
+---
+
+### 5. Which country generates the highest number of orders?
+
+| Country | Total Orders |
+|--------|--------------|
+| USA     | 29 |
+| GERMANY | 25 |
+| BRAZIL  | 19 |
+| FRANCE  | 18 |
+| AUSTRIA | 13 |
+
+💡 **Insight:**  
+The USA generates the highest number of orders, making it the most active market.
