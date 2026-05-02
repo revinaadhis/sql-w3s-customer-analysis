@@ -1,4 +1,11 @@
-## 📊 Business Questions & Insights
+## Business Questions & Insights
+
+## 📌 Project Objective
+This analysis aims to evaluate customer distribution and purchasing behavior to provide data-driven marketing recommendations.
+
+## 📊 Dataset
+This project utilizes the **W3Schools Sample Database**, which simulates operational data from a global enterprise.
+* ** Data SQL Script Source:** [AndrejWeb/w3schools-database](https://github.com)
 
 ### 1. Which country has the most customers?
 
